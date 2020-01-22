@@ -1,0 +1,10 @@
+<VAST version="3.0">
+    <Ad id="161>">
+        <Wrapper>
+            <AdSystem version="4.0">elusione</AdSystem>
+            <VASTAdTagURI><![CDATA[https://raw.githubusercontent.com/InteractiveAdvertisingBureau/VAST_Samples/master/VAST%203.0%20Samples/Inline_Companion_Tag-test.xml]]></VASTAdTagURI>
+
+            <Impression>https://s.evolusione.com/go/101/161?sub1=impression</Impression>
+        </Wrapper>
+    </Ad>
+</VAST>
